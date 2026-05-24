@@ -1,0 +1,6 @@
+{
+  "name": "Drag Race",
+  "description": "Drag Race Login Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

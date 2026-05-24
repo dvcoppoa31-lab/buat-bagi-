@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drag Race</string>
+    <string name="username_hint">NAMA PENGGUNA</string>
+    <string name="password_hint">KATA SANDI</string>
+    <string name="remember_me">INGAT SAYA</string>
+    <string name="login_action">MASUK SEKARANG</string>
+    <string name="register_action">Daftar</string>
+</resources>
